@@ -3,7 +3,9 @@ Flask-ErrorHandler
 
 Flask-ErrorHandler provides a generic error handler for blueprints.
 
-Sample::
+Sample:
+
+.. code-block:: python
 
     from flask import Flask, Blueprint
     from flask.ext.errorhandler import ErrorHandler
